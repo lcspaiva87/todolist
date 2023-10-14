@@ -77,12 +77,12 @@ A seguir, são listados os endpoints da API para executar as operações CRUD em
 - **Endpoint**: `/tasks/`
 - **Descrição**:Retorna uma lista de todas as tarefas do usuário autenticado.
 
-### 3. **Criar Produto**
+### 3. **Criar TASK**
 - **Método**: POST
 - **Endpoint**: `/tasks/`
 - **Descrição**: Cria uma nova tarefa com base nos dados fornecidos no corpo da solicitação. Os campos obrigatórios são `description`, `title`, `priority`, `startDate`,`idUser`,  e `endDate`.
 
-### 4. **Atualizar Produto**
+### 4. **Atualizar TASK**
 
 - **Método**: PUT
 - **Endpoint**: `/tasks/:id`
