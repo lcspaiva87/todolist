@@ -1,4 +1,4 @@
-package br.com.lucaspaiva.todolist.errros;
+package br.com.lucaspaiva.todolist.erros;
 
 import org.springframework.http.ResponseEntity;
 import org.springframework.http.converter.HttpMessageNotReadableException;
