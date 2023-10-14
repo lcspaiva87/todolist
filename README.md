@@ -29,13 +29,19 @@
 
 ## Como executar
 > 1. Clone o repositório do projeto:
+```sh
 git clone https://github.com/lcspaiva87/todolist
-
+```
 > 2. Nessa documentação você terá o passo a passo para instalar o maven:
-link https://www.notion.so/Maven-8667c3fcb8a24fe6a50772660942c254
+ ```sh
+ https://www.notion.so/Maven-8667c3fcb8a24fe6a50772660942c254)
+```
 
 > 3. Nessa documentação você terá o passo a passo para instalar o Java 17:
-link https://www.notion.so/ea9820a3ec9044f1bce6750d671d2211
+ ```sh
+ https://www.notion.so/ea9820a3ec9044f1bce6750d671d2211
+```
+
 
 > 4. Execute o comando para iniciar a aplicação:
 mvn spring-boot:run
