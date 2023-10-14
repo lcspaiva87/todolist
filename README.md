@@ -38,7 +38,9 @@ git clone https://github.com/lcspaiva87/todolist
 ```
 
 > 3. Nessa documentação você terá o passo a passo para instalar o Java 17:
-link https://www.notion.so/ea9820a3ec9044f1bce6750d671d2211
+ ```sh
+https://www.notion.so/ea9820a3ec9044f1bce6750d671d2211
+```
 > 4. Execute o comando para iniciar a aplicação:
 mvn spring-boot:run
 
