@@ -42,7 +42,9 @@ git clone https://github.com/lcspaiva87/todolist
 https://www.notion.so/ea9820a3ec9044f1bce6750d671d2211
 ```
 > 4. Execute o comando para iniciar a aplicação:
+```sh
 mvn spring-boot:run
+```
 
 > Acesse a aplicação no navegador em http://localhost:8080/
 > 
